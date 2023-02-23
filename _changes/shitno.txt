@@ -1,0 +1,6 @@
+mods/data/shitno/lyrics.json
+mods/data/shitno/shitno-hard.json
+mods/songs/shitno/Voices.ogg
+mods/songs/shitno/Inst.ogg
+mods/songs/shitno/voices.ogg
+mods/songs/shitno/inst.ogg

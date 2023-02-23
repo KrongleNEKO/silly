@@ -1,0 +1,5 @@
+mods/data/missingno/missingno-hard.json
+mods/songs/missingno/Voices.ogg
+mods/songs/missingno/Inst.ogg
+mods/songs/missingno/voices.ogg
+mods/songs/missingno/inst.ogg
