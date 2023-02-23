@@ -1,0 +1,30 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "AbandonedHouse",
+		"player1": "bfxdrip",
+		"player2": "spookydjx",
+		"player3": null,
+		"events": [
+			[
+				40727.2727272727,
+				[
+					[
+						"Set Cam Zoom",
+						"0.6",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gfx",
+		"bpm": 165,
+		"mania": 4,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "x-outh"
+	}
+}

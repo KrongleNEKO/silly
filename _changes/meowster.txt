@@ -1,0 +1,6 @@
+mods/data/meowster/events.json
+mods/data/meowster/meowster-hard.json
+mods/songs/meowster/Voices.ogg
+mods/songs/meowster/Inst.ogg
+mods/songs/meowster/voices.ogg
+mods/songs/meowster/inst.ogg

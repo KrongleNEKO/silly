@@ -1,0 +1,5 @@
+mods/data/scratcheez/scratcheez-hard.json
+mods/songs/scratcheez/Voices.ogg
+mods/songs/scratcheez/Inst.ogg
+mods/songs/scratcheez/voices.ogg
+mods/songs/scratcheez/inst.ogg

@@ -1,0 +1,7 @@
+mods/data/strive/strive-easy.json
+mods/data/strive/strive-hard.json
+mods/data/strive/strive.json
+mods/songs/strive/Voices.ogg
+mods/songs/strive/Inst.ogg
+mods/songs/strive/voices.ogg
+mods/songs/strive/inst.ogg

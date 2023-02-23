@@ -1,0 +1,5 @@
+mods/data/lo-fight/lo-fight-hard.json
+mods/songs/lo-fight/Voices.ogg
+mods/songs/lo-fight/Inst.ogg
+mods/songs/lo-fight/voices.ogg
+mods/songs/lo-fight/inst.ogg

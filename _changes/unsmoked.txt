@@ -1,0 +1,7 @@
+mods/data/unsmoked/unsmoked-easy.json
+mods/data/unsmoked/unsmoked-hard.json
+mods/data/unsmoked/unsmoked.json
+mods/songs/unsmoked/Voices.ogg
+mods/songs/unsmoked/Inst.ogg
+mods/songs/unsmoked/voices.ogg
+mods/songs/unsmoked/inst.ogg

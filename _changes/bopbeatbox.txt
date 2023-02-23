@@ -1,0 +1,7 @@
+mods/data/bopbeatbox/bopbeatbox-easy.json
+mods/data/bopbeatbox/bopbeatbox-hard.json
+mods/data/bopbeatbox/bopbeatbox.json
+mods/songs/bopbeatbox/Voices.ogg
+mods/songs/bopbeatbox/Inst.ogg
+mods/songs/bopbeatbox/voices.ogg
+mods/songs/bopbeatbox/inst.ogg

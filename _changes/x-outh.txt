@@ -1,0 +1,6 @@
+mods/data/x-outh/events.json
+mods/data/x-outh/x-outh-hard.json
+mods/songs/x-outh/Voices.ogg
+mods/songs/x-outh/Inst.ogg
+mods/songs/x-outh/voices.ogg
+mods/songs/x-outh/inst.ogg

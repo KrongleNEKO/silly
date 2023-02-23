@@ -1,0 +1,70 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "AbandonedHouse",
+		"player1": "bfxdrip",
+		"player2": "valentino",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Cam Boom Speed",
+						"",
+						""
+					]
+				]
+			],
+			[
+				65573.1225296443,
+				[
+					[
+						"Cam Boom Speed",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				96034.4576254803,
+				[
+					[
+						"Cam Boom Speed",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				104034.45762548,
+				[
+					[
+						"Cam Boom Speed",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				119726.765317788,
+				[
+					[
+						"Cam Boom Speed",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gfx",
+		"bpm": 115,
+		"mania": 4,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "meowster"
+	}
+}
