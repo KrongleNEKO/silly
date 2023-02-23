@@ -1,346 +1,146 @@
 {
 	"song": {
-		"player1": "bf",
-		"song": "Bopeebo",
-		"player2": "dad",
-		"notes": [
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
+		"events": [
+			[
+				4650,
+				[
 					[
-						4290,
-						-1,
+						"Change Default Camera Zoom",
+						"1.2",
+						"0.5"
+					]
+				]
+			],
+			[
+				9000,
+				[
+					[
 						"Hey!",
-						"0",
+						"",
 						""
 					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
+				]
+			],
+			[
+				13800,
+				[
 					[
-						9090,
-						-1,
 						"Hey!",
-						"0",
+						"",
 						""
 					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
+				]
+			],
+			[
+				18600,
+				[
 					[
-						13890,
-						-1,
 						"Hey!",
-						"0",
+						"",
 						""
 					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
+				]
+			],
+			[
+				23400,
+				[
 					[
-						18690,
-						-1,
+						"Change Default Camera Zoom",
+						"0.5",
+						"0.8"
+					]
+				]
+			],
+			[
+				35400,
+				[
+					[
+						"Change Default Camera Zoom",
+						"0.6",
+						"0.8"
+					]
+				]
+			],
+			[
+				37800,
+				[
+					[
+						"Change Default Camera Zoom",
+						"0.7",
+						"0.8"
+					]
+				]
+			],
+			[
+				40200,
+				[
+					[
+						"Change Default Camera Zoom",
+						"0.8",
+						"0.8"
+					]
+				]
+			],
+			[
+				42600,
+				[
+					[
+						"Change Default Camera Zoom",
+						"0.75",
+						"0.8"
+					]
+				]
+			],
+			[
+				47400,
+				[
+					[
 						"Hey!",
-						"0",
+						"",
 						""
 					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
+				]
+			],
+			[
+				52200,
+				[
 					[
-						23490,
-						-1,
 						"Hey!",
-						"0",
+						"",
 						""
 					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
+				]
+			],
+			[
+				52650,
+				[
 					[
-						28290,
-						-1,
+						"Change Default Camera Zoom",
+						"0.8",
+						"0.5"
+					]
+				]
+			],
+			[
+				57000,
+				[
+					[
 						"Hey!",
-						"0",
+						"",
 						""
 					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
+				]
+			],
+			[
+				61800,
+				[
 					[
-						33090,
-						-1,
-						"Hey!",
-						"0",
-						""
+						"Change Default Camera Zoom",
+						"0.75",
+						"0.8"
 					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
-					[
-						37890,
-						-1,
-						"Hey!",
-						"0",
-						""
-					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
-					[
-						42690,
-						-1,
-						"Hey!",
-						"0",
-						""
-					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
-					[
-						47490,
-						-1,
-						"Hey!",
-						"0",
-						""
-					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
-					[
-						52290,
-						-1,
-						"Hey!",
-						"0",
-						""
-					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
-					[
-						57090,
-						-1,
-						"Hey!",
-						"0",
-						""
-					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
-					[
-						61890,
-						-1,
-						"Hey!",
-						"0",
-						""
-					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
-					[
-						66690,
-						-1,
-						"Hey!",
-						"0",
-						""
-					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
-					[
-						71490,
-						-1,
-						"Hey!",
-						"0",
-						""
-					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [],
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"sectionNotes": [
-					[
-						76290,
-						-1,
-						"Hey!",
-						"0",
-						""
-					]
-				],
-				"mustHitSection": true
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 100
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 100
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 100
-			},
-			{
-				"sectionNotes": [],
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"mustHitSection": true,
-				"changeBPM": false,
-				"bpm": 100
-			},
-			{
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"typeOfSection": 0,
-				"sectionNotes": [],
-				"bpm": 100,
-				"changeBPM": false,
-				"mustHitSection": true
-			}
-		],
-		"needsVoices": true,
-		"validScore": true,
-		"bpm": 100,
-		"speed": 1.3
+				]
+			]
+		]
 	}
 }
