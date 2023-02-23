@@ -1,0 +1,5 @@
+mods/data/quitter/quitter-hard.json
+mods/songs/quitter/Voices.ogg
+mods/songs/quitter/Inst.ogg
+mods/songs/quitter/voices.ogg
+mods/songs/quitter/inst.ogg

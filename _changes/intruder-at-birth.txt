@@ -1,0 +1,5 @@
+mods/data/intruder-at-birth/intruder-at-birth-hard.json
+mods/songs/intruder-at-birth/Voices.ogg
+mods/songs/intruder-at-birth/Inst.ogg
+mods/songs/intruder-at-birth/voices.ogg
+mods/songs/intruder-at-birth/inst.ogg

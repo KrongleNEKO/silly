@@ -1,0 +1,5 @@
+mods/data/petsog/petsog-hard.json
+mods/songs/petsog/Voices.ogg
+mods/songs/petsog/Inst.ogg
+mods/songs/petsog/voices.ogg
+mods/songs/petsog/inst.ogg

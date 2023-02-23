@@ -1,0 +1,6 @@
+mods/data/dave/dave-hard.json
+mods/data/dave/events.json
+mods/songs/dave/Voices.ogg
+mods/songs/dave/Inst.ogg
+mods/songs/dave/voices.ogg
+mods/songs/dave/inst.ogg

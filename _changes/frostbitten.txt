@@ -1,0 +1,6 @@
+mods/data/frostbitten/frostbitten-normal.json
+mods/data/frostbitten/frostbitten.json
+mods/songs/frostbitten/Voices.ogg
+mods/songs/frostbitten/Inst.ogg
+mods/songs/frostbitten/voices.ogg
+mods/songs/frostbitten/inst.ogg

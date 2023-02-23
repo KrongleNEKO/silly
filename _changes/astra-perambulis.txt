@@ -1,0 +1,8 @@
+mods/data/astra-perambulis/astra-perambulis-original.json
+mods/data/astra-perambulis/post-dialogue-good.json
+mods/data/astra-perambulis/post-dialogue-perfect.json
+mods/data/astra-perambulis/post-dialogue.json
+mods/songs/astra-perambulis/Voices.ogg
+mods/songs/astra-perambulis/Inst.ogg
+mods/songs/astra-perambulis/voices.ogg
+mods/songs/astra-perambulis/inst.ogg

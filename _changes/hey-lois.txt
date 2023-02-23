@@ -1,0 +1,5 @@
+mods/data/hey-lois/hey-lois.json
+mods/songs/hey-lois/Voices.ogg
+mods/songs/hey-lois/Inst.ogg
+mods/songs/hey-lois/voices.ogg
+mods/songs/hey-lois/inst.ogg

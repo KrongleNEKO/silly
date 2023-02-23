@@ -1,0 +1,5 @@
+mods/data/care/care-hard.json
+mods/songs/care/Voices.ogg
+mods/songs/care/Inst.ogg
+mods/songs/care/voices.ogg
+mods/songs/care/inst.ogg

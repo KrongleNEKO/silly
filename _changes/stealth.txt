@@ -1,0 +1,5 @@
+mods/data/stealth/stealth-hard.json
+mods/songs/stealth/Voices.ogg
+mods/songs/stealth/Inst.ogg
+mods/songs/stealth/voices.ogg
+mods/songs/stealth/inst.ogg

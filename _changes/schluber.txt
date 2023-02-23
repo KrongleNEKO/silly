@@ -1,0 +1,6 @@
+mods/data/schluber/events.json
+mods/data/schluber/schluber.json
+mods/songs/schluber/Voices.ogg
+mods/songs/schluber/Inst.ogg
+mods/songs/schluber/voices.ogg
+mods/songs/schluber/inst.ogg

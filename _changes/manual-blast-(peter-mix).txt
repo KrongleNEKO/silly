@@ -1,0 +1,6 @@
+mods/data/manual-blast-(peter-mix)/events.json
+mods/data/manual-blast-(peter-mix)/manual-blast-(peter-mix).json
+mods/songs/manual-blast-(peter-mix)/Voices.ogg
+mods/songs/manual-blast-(peter-mix)/Inst.ogg
+mods/songs/manual-blast-(peter-mix)/voices.ogg
+mods/songs/manual-blast-(peter-mix)/inst.ogg

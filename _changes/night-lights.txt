@@ -1,0 +1,6 @@
+mods/data/night-lights/events.json
+mods/data/night-lights/night-lights.json
+mods/songs/night-lights/Voices.ogg
+mods/songs/night-lights/Inst.ogg
+mods/songs/night-lights/voices.ogg
+mods/songs/night-lights/inst.ogg

@@ -1,0 +1,4 @@
+mods/songs/crash/Voices.ogg
+mods/songs/crash/Inst.ogg
+mods/songs/crash/voices.ogg
+mods/songs/crash/inst.ogg

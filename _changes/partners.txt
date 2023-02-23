@@ -1,0 +1,6 @@
+mods/data/partners/events.json
+mods/data/partners/partners.json
+mods/songs/partners/Voices.ogg
+mods/songs/partners/Inst.ogg
+mods/songs/partners/voices.ogg
+mods/songs/partners/inst.ogg

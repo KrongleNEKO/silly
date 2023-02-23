@@ -1,0 +1,11 @@
+mods/data/hyperlink/dialogue-neo.json
+mods/data/hyperlink/dialogue.json
+mods/data/hyperlink/events.json
+mods/data/hyperlink/hyperlink-hard.json
+mods/data/hyperlink/hyperlink-neo.json
+mods/data/hyperlink/hyperlink.json
+mods/data/hyperlink/post-dialogue.json
+mods/songs/hyperlink/Voices.ogg
+mods/songs/hyperlink/Inst.ogg
+mods/songs/hyperlink/voices.ogg
+mods/songs/hyperlink/inst.ogg

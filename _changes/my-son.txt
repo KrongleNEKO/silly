@@ -1,0 +1,6 @@
+mods/data/my-son/events.json
+mods/data/my-son/my-son-hard.json
+mods/songs/my-son/Voices.ogg
+mods/songs/my-son/Inst.ogg
+mods/songs/my-son/voices.ogg
+mods/songs/my-son/inst.ogg

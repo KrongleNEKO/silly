@@ -1,0 +1,9 @@
+mods/data/in-my-way/dialogue.json
+mods/data/in-my-way/in-my-way-easy.json
+mods/data/in-my-way/in-my-way-hard.json
+mods/data/in-my-way/in-my-way.json
+mods/data/in-my-way/post-dialogue.json
+mods/songs/in-my-way/Voices.ogg
+mods/songs/in-my-way/Inst.ogg
+mods/songs/in-my-way/voices.ogg
+mods/songs/in-my-way/inst.ogg

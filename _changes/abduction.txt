@@ -1,0 +1,5 @@
+mods/data/abduction/abduction-hard.json
+mods/songs/abduction/Voices.ogg
+mods/songs/abduction/Inst.ogg
+mods/songs/abduction/voices.ogg
+mods/songs/abduction/inst.ogg

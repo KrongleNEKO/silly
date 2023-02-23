@@ -1,0 +1,6 @@
+mods/data/broken-commandment/broken-commandment-hard.json
+mods/data/broken-commandment/events.json
+mods/songs/broken-commandment/Voices.ogg
+mods/songs/broken-commandment/Inst.ogg
+mods/songs/broken-commandment/voices.ogg
+mods/songs/broken-commandment/inst.ogg

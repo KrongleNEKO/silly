@@ -1,0 +1,6 @@
+mods/data/pepsicanned/events.json
+mods/data/pepsicanned/pepsicanned.json
+mods/songs/pepsicanned/Voices.ogg
+mods/songs/pepsicanned/Inst.ogg
+mods/songs/pepsicanned/voices.ogg
+mods/songs/pepsicanned/inst.ogg

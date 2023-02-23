@@ -1,0 +1,5 @@
+mods/data/obscured/obscured-hard.json
+mods/songs/obscured/Voices.ogg
+mods/songs/obscured/Inst.ogg
+mods/songs/obscured/voices.ogg
+mods/songs/obscured/inst.ogg

@@ -1,0 +1,8 @@
+mods/data/all-stars/all-stars-bonus.json
+mods/data/all-stars/all-stars-easy.json
+mods/data/all-stars/all-stars-hard.json
+mods/data/all-stars/all-stars.json
+mods/songs/all-stars/Voices.ogg
+mods/songs/all-stars/Inst.ogg
+mods/songs/all-stars/voices.ogg
+mods/songs/all-stars/inst.ogg

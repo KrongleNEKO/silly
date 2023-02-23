@@ -1,0 +1,6 @@
+mods/data/abstraction/abstraction-hard.json
+mods/data/abstraction/abstraction-ucv.json
+mods/songs/abstraction/Voices.ogg
+mods/songs/abstraction/Inst.ogg
+mods/songs/abstraction/voices.ogg
+mods/songs/abstraction/inst.ogg

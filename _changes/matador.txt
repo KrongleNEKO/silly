@@ -1,0 +1,7 @@
+mods/data/matador/matador-easy.json
+mods/data/matador/matador-hard.json
+mods/data/matador/matador.json
+mods/songs/matador/Voices.ogg
+mods/songs/matador/Inst.ogg
+mods/songs/matador/voices.ogg
+mods/songs/matador/inst.ogg

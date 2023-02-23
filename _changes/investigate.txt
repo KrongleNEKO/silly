@@ -1,0 +1,5 @@
+mods/data/investigate/investigate-hard.json
+mods/songs/investigate/Voices.ogg
+mods/songs/investigate/Inst.ogg
+mods/songs/investigate/voices.ogg
+mods/songs/investigate/inst.ogg

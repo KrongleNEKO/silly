@@ -1,0 +1,9 @@
+mods/data/chips-ahoyeth/chips-ahoyeth-easy.json
+mods/data/chips-ahoyeth/chips-ahoyeth-hard.json
+mods/data/chips-ahoyeth/chips-ahoyeth.json
+mods/data/chips-ahoyeth/dialogue.json
+mods/data/chips-ahoyeth/post-dialogue.json
+mods/songs/chips-ahoyeth/Voices.ogg
+mods/songs/chips-ahoyeth/Inst.ogg
+mods/songs/chips-ahoyeth/voices.ogg
+mods/songs/chips-ahoyeth/inst.ogg

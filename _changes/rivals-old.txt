@@ -1,0 +1,5 @@
+mods/data/rivals-old/rivals-old-hard.json
+mods/songs/rivals-old/Voices.ogg
+mods/songs/rivals-old/Inst.ogg
+mods/songs/rivals-old/voices.ogg
+mods/songs/rivals-old/inst.ogg

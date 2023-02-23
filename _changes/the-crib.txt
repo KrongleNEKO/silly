@@ -1,0 +1,6 @@
+mods/data/the-crib/events.json
+mods/data/the-crib/the-crib-normal.json
+mods/songs/the-crib/Voices.ogg
+mods/songs/the-crib/Inst.ogg
+mods/songs/the-crib/voices.ogg
+mods/songs/the-crib/inst.ogg

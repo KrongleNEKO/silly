@@ -1,0 +1,7 @@
+mods/data/daydreaming/daydreaming-hard.json
+mods/data/daydreaming/daydreaming-ucv.json
+mods/data/daydreaming/events.json
+mods/songs/daydreaming/Voices.ogg
+mods/songs/daydreaming/Inst.ogg
+mods/songs/daydreaming/voices.ogg
+mods/songs/daydreaming/inst.ogg

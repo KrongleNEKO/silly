@@ -1,0 +1,8 @@
+mods/data/showstopping/dialogue.json
+mods/data/showstopping/showstopping-easy.json
+mods/data/showstopping/showstopping-hard.json
+mods/data/showstopping/showstopping.json
+mods/songs/showstopping/Voices.ogg
+mods/songs/showstopping/Inst.ogg
+mods/songs/showstopping/voices.ogg
+mods/songs/showstopping/inst.ogg

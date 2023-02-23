@@ -1,0 +1,6 @@
+mods/data/continuum/continuum-hard.json
+mods/data/continuum/continuum.json
+mods/songs/continuum/Voices.ogg
+mods/songs/continuum/Inst.ogg
+mods/songs/continuum/voices.ogg
+mods/songs/continuum/inst.ogg

@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "christmas",
+		"player1": "ChristmasQuirrel",
+		"player2": "ChristmasTHK",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Black bars",
+						"1.5/70",
+						"hud"
+					]
+				]
+			],
+			[
+				5675.67567567568,
+				[
+					[
+						"Init 3rd strum",
+						"1.5/70",
+						"hud"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "ChristmasHornet",
+		"bpm": 148,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "ballad"
+	}
+}

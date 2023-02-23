@@ -1,0 +1,11 @@
+mods/data/ragdoll-chaos/dialogue-chaos.json
+mods/data/ragdoll-chaos/dialogue.json
+mods/data/ragdoll-chaos/post-dialogue.json
+mods/data/ragdoll-chaos/ragdoll-chaos-chaos.json
+mods/data/ragdoll-chaos/ragdoll-chaos-easy.json
+mods/data/ragdoll-chaos/ragdoll-chaos-hard.json
+mods/data/ragdoll-chaos/ragdoll-chaos.json
+mods/songs/ragdoll-chaos/Voices.ogg
+mods/songs/ragdoll-chaos/Inst.ogg
+mods/songs/ragdoll-chaos/voices.ogg
+mods/songs/ragdoll-chaos/inst.ogg

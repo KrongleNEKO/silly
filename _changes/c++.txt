@@ -1,0 +1,6 @@
+mods/data/c++/c++-hard.json
+mods/data/c++/events.json
+mods/songs/c++/Voices.ogg
+mods/songs/c++/Inst.ogg
+mods/songs/c++/voices.ogg
+mods/songs/c++/inst.ogg

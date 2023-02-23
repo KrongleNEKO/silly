@@ -1,0 +1,5 @@
+mods/data/petscop-2/petscop-2-hard.json
+mods/songs/petscop-2/Voices.ogg
+mods/songs/petscop-2/Inst.ogg
+mods/songs/petscop-2/voices.ogg
+mods/songs/petscop-2/inst.ogg

@@ -1,0 +1,6 @@
+mods/data/ballad/ballad.json
+mods/data/ballad/events.json
+mods/songs/ballad/Voices.ogg
+mods/songs/ballad/Inst.ogg
+mods/songs/ballad/voices.ogg
+mods/songs/ballad/inst.ogg

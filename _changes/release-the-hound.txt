@@ -1,0 +1,5 @@
+mods/data/release-the-hound/release-the-hound-normal.json
+mods/songs/release-the-hound/Voices.ogg
+mods/songs/release-the-hound/Inst.ogg
+mods/songs/release-the-hound/voices.ogg
+mods/songs/release-the-hound/inst.ogg

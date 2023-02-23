@@ -1,0 +1,8 @@
+mods/data/smile-award/dialogue.json
+mods/data/smile-award/post-dialogue.json
+mods/data/smile-award/smile-award-happy.json
+mods/data/smile-award/smile-award-hard.json
+mods/songs/smile-award/Voices.ogg
+mods/songs/smile-award/Inst.ogg
+mods/songs/smile-award/voices.ogg
+mods/songs/smile-award/inst.ogg

@@ -1,0 +1,5 @@
+mods/data/newmaker-good/newmaker-good-hard.json
+mods/songs/newmaker-good/Voices.ogg
+mods/songs/newmaker-good/Inst.ogg
+mods/songs/newmaker-good/voices.ogg
+mods/songs/newmaker-good/inst.ogg

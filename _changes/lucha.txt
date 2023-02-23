@@ -1,0 +1,5 @@
+mods/data/lucha/lucha-hard.json
+mods/songs/lucha/Voices.ogg
+mods/songs/lucha/Inst.ogg
+mods/songs/lucha/voices.ogg
+mods/songs/lucha/inst.ogg

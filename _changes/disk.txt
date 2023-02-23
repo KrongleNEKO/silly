@@ -1,0 +1,5 @@
+mods/data/disk/disk-hard.json
+mods/songs/disk/Voices.ogg
+mods/songs/disk/Inst.ogg
+mods/songs/disk/voices.ogg
+mods/songs/disk/inst.ogg

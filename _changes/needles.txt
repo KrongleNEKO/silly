@@ -1,0 +1,5 @@
+mods/data/needles/needles-hard.json
+mods/songs/needles/Voices.ogg
+mods/songs/needles/Inst.ogg
+mods/songs/needles/voices.ogg
+mods/songs/needles/inst.ogg

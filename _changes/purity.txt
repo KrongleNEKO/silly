@@ -1,0 +1,5 @@
+mods/data/purity/purity-hard.json
+mods/songs/purity/Voices.ogg
+mods/songs/purity/Inst.ogg
+mods/songs/purity/voices.ogg
+mods/songs/purity/inst.ogg

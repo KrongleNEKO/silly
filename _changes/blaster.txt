@@ -1,0 +1,5 @@
+mods/data/blaster/blaster-hard.json
+mods/songs/blaster/Voices.ogg
+mods/songs/blaster/Inst.ogg
+mods/songs/blaster/voices.ogg
+mods/songs/blaster/inst.ogg
