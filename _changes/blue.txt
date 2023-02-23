@@ -1,0 +1,6 @@
+mods/data/blue/blue.json
+mods/data/blue/events.json
+mods/songs/blue/Voices.ogg
+mods/songs/blue/Inst.ogg
+mods/songs/blue/voices.ogg
+mods/songs/blue/inst.ogg

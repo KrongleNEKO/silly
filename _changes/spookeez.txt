@@ -1,5 +1,7 @@
 mods/data/spookeez/events.json
+mods/data/spookeez/spookeez custom.json
 mods/data/spookeez/spookeez-easy.json
+mods/data/spookeez/spookeez-getreal.json
 mods/data/spookeez/spookeez-hard.json
 mods/data/spookeez/spookeez.json
 mods/songs/spookeez/Voices.ogg

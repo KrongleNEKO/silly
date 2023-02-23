@@ -1,0 +1,6 @@
+mods/data/star/events.json
+mods/data/star/star-normal.json
+mods/songs/star/Voices.ogg
+mods/songs/star/Inst.ogg
+mods/songs/star/voices.ogg
+mods/songs/star/inst.ogg

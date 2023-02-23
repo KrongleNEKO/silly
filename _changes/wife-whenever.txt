@@ -1,0 +1,6 @@
+mods/data/wife-whenever/events.json
+mods/data/wife-whenever/wife-whenever-normal.json
+mods/songs/wife-whenever/Voices.ogg
+mods/songs/wife-whenever/Inst.ogg
+mods/songs/wife-whenever/voices.ogg
+mods/songs/wife-whenever/inst.ogg

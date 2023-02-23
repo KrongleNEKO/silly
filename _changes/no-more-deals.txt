@@ -1,4 +1,6 @@
+mods/data/no-more-deals/events.json
 mods/data/no-more-deals/no-more-deals-hard.json
+mods/data/no-more-deals/no-more-deals.json
 mods/songs/no-more-deals/Voices.ogg
 mods/songs/no-more-deals/Inst.ogg
 mods/songs/no-more-deals/voices.ogg

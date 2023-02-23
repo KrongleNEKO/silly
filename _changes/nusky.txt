@@ -1,0 +1,9 @@
+mods/data/nusky/dialogue.json
+mods/data/nusky/events.json
+mods/data/nusky/nusky-easy.json
+mods/data/nusky/nusky-hard.json
+mods/data/nusky/nusky.json
+mods/songs/nusky/Voices.ogg
+mods/songs/nusky/Inst.ogg
+mods/songs/nusky/voices.ogg
+mods/songs/nusky/inst.ogg

@@ -1,0 +1,7 @@
+mods/data/palace-raid/palace-raid-easy.json
+mods/data/palace-raid/palace-raid-hard.json
+mods/data/palace-raid/palace-raid.json
+mods/songs/palace-raid/Voices.ogg
+mods/songs/palace-raid/Inst.ogg
+mods/songs/palace-raid/voices.ogg
+mods/songs/palace-raid/inst.ogg

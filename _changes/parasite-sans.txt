@@ -1,0 +1,5 @@
+mods/data/parasite-sans/parasite-sans.json
+mods/songs/parasite-sans/Voices.ogg
+mods/songs/parasite-sans/Inst.ogg
+mods/songs/parasite-sans/voices.ogg
+mods/songs/parasite-sans/inst.ogg

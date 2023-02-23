@@ -1,4 +1,6 @@
+mods/data/blammed/blammed custom.json
 mods/data/blammed/blammed-easy.json
+mods/data/blammed/blammed-getreal.json
 mods/data/blammed/blammed-hard.json
 mods/data/blammed/blammed.json
 mods/data/blammed/events.json

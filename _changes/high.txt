@@ -1,5 +1,7 @@
 mods/data/high/events.json
+mods/data/high/high custom.json
 mods/data/high/high-easy.json
+mods/data/high/high-getreal.json
 mods/data/high/high-hard.json
 mods/data/high/high.json
 mods/songs/high/Voices.ogg

@@ -1,4 +1,6 @@
+mods/data/cocoa/cocoa custom.json
 mods/data/cocoa/cocoa-easy.json
+mods/data/cocoa/cocoa-getreal.json
 mods/data/cocoa/cocoa-hard.json
 mods/data/cocoa/cocoa.json
 mods/data/cocoa/events.json

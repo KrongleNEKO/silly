@@ -1,0 +1,5 @@
+mods/data/offsettest/offsettest.json
+mods/songs/offsettest/Voices.ogg
+mods/songs/offsettest/Inst.ogg
+mods/songs/offsettest/voices.ogg
+mods/songs/offsettest/inst.ogg

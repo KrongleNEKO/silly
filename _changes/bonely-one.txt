@@ -1,0 +1,8 @@
+mods/data/bonely-one/bonely-one-chara.json
+mods/data/bonely-one/bonely-one.json
+mods/data/bonely-one/dialogue.json
+mods/data/bonely-one/dialoguespanish.json
+mods/songs/bonely-one/Voices.ogg
+mods/songs/bonely-one/Inst.ogg
+mods/songs/bonely-one/voices.ogg
+mods/songs/bonely-one/inst.ogg

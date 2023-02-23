@@ -1,0 +1,8 @@
+mods/data/nyeh-heh-heh/dialogue.json
+mods/data/nyeh-heh-heh/dialoguespanish.json
+mods/data/nyeh-heh-heh/nyeh-heh-heh-chara.json
+mods/data/nyeh-heh-heh/nyeh-heh-heh.json
+mods/songs/nyeh-heh-heh/Voices.ogg
+mods/songs/nyeh-heh-heh/Inst.ogg
+mods/songs/nyeh-heh-heh/voices.ogg
+mods/songs/nyeh-heh-heh/inst.ogg

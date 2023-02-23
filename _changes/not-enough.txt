@@ -1,0 +1,8 @@
+mods/data/not-enough/dialogue.json
+mods/data/not-enough/dialoguespanish.json
+mods/data/not-enough/not-enough-chara.json
+mods/data/not-enough/not-enough.json
+mods/songs/not-enough/Voices.ogg
+mods/songs/not-enough/Inst.ogg
+mods/songs/not-enough/voices.ogg
+mods/songs/not-enough/inst.ogg

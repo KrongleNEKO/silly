@@ -1,5 +1,7 @@
 mods/data/milf/events.json
+mods/data/milf/milf custom.json
 mods/data/milf/milf-easy.json
+mods/data/milf/milf-getreal.json
 mods/data/milf/milf-hard.json
 mods/data/milf/milf.json
 mods/songs/milf/Voices.ogg

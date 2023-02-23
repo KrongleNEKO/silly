@@ -1,5 +1,6 @@
 mods/data/thorns/events.json
 mods/data/thorns/thorns-easy.json
+mods/data/thorns/thorns-getreal.json
 mods/data/thorns/thorns-hard.json
 mods/data/thorns/thorns.json
 mods/songs/thorns/Voices.ogg

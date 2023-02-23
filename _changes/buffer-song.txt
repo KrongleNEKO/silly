@@ -1,0 +1,10 @@
+mods/data/buffer-song/buffer-song-easy.json
+mods/data/buffer-song/buffer-song-hard.json
+mods/data/buffer-song/buffer-song.json
+mods/data/buffer-song/dialogue.json
+mods/data/buffer-song/dialogueend.json
+mods/data/buffer-song/events.json
+mods/songs/buffer-song/Voices.ogg
+mods/songs/buffer-song/Inst.ogg
+mods/songs/buffer-song/voices.ogg
+mods/songs/buffer-song/inst.ogg

@@ -1,5 +1,7 @@
 mods/data/fresh/events.json
+mods/data/fresh/fresh custom.json
 mods/data/fresh/fresh-easy.json
+mods/data/fresh/fresh-getreal.json
 mods/data/fresh/fresh-hard.json
 mods/data/fresh/fresh.json
 mods/songs/fresh/Voices.ogg

@@ -1,0 +1,5 @@
+mods/data/eeeechrome/eeeechrome.json
+mods/songs/eeeechrome/Voices.ogg
+mods/songs/eeeechrome/Inst.ogg
+mods/songs/eeeechrome/voices.ogg
+mods/songs/eeeechrome/inst.ogg

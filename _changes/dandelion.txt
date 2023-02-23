@@ -1,0 +1,7 @@
+mods/data/dandelion/dandelion-but the chart isn't fucked.json
+mods/data/dandelion/dandelion.json
+mods/data/dandelion/events.json
+mods/songs/dandelion/Voices.ogg
+mods/songs/dandelion/Inst.ogg
+mods/songs/dandelion/voices.ogg
+mods/songs/dandelion/inst.ogg

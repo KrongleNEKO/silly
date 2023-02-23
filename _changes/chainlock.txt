@@ -1,0 +1,9 @@
+mods/data/chainlock/chainlock-easy.json
+mods/data/chainlock/chainlock-hard.json
+mods/data/chainlock/chainlock.json
+mods/data/chainlock/dialogue.json
+mods/data/chainlock/events.json
+mods/songs/chainlock/Voices.ogg
+mods/songs/chainlock/Inst.ogg
+mods/songs/chainlock/voices.ogg
+mods/songs/chainlock/inst.ogg

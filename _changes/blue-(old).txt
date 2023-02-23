@@ -1,0 +1,7 @@
+mods/data/blue-(old)/blue-(old)-legacy.json
+mods/data/blue-(old)/blue-(old).json
+mods/data/blue-(old)/events.json
+mods/songs/blue-(old)/Voices.ogg
+mods/songs/blue-(old)/Inst.ogg
+mods/songs/blue-(old)/voices.ogg
+mods/songs/blue-(old)/inst.ogg

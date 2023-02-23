@@ -1,0 +1,8 @@
+mods/data/succ'd/succ'd-easy.json
+mods/data/succ'd/succ'd-getreal.json
+mods/data/succ'd/succ'd-hard.json
+mods/data/succ'd/succ'd.json
+mods/songs/succ'd/Voices.ogg
+mods/songs/succ'd/Inst.ogg
+mods/songs/succ'd/voices.ogg
+mods/songs/succ'd/inst.ogg

@@ -1,4 +1,6 @@
+mods/data/pico/pico custom.json
 mods/data/pico/pico-easy.json
+mods/data/pico/pico-getreal.json
 mods/data/pico/pico-hard.json
 mods/data/pico/pico.json
 mods/songs/pico/Voices.ogg
