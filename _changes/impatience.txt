@@ -1,0 +1,5 @@
+mods/data/impatience/impatience.json
+mods/songs/impatience/Voices.ogg
+mods/songs/impatience/Inst.ogg
+mods/songs/impatience/voices.ogg
+mods/songs/impatience/inst.ogg
