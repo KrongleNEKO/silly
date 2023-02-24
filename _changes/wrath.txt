@@ -1,0 +1,7 @@
+mods/data/wrath/wrath-easy.json
+mods/data/wrath/wrath-hard.json
+mods/data/wrath/wrath.json
+mods/songs/wrath/Voices.ogg
+mods/songs/wrath/Inst.ogg
+mods/songs/wrath/voices.ogg
+mods/songs/wrath/inst.ogg

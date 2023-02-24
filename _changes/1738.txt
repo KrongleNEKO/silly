@@ -1,0 +1,5 @@
+mods/data/1738/1738.json
+mods/songs/1738/Voices.ogg
+mods/songs/1738/Inst.ogg
+mods/songs/1738/voices.ogg
+mods/songs/1738/inst.ogg
