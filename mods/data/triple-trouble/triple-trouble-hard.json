@@ -24526,7 +24526,7 @@
 				]
 			]
 		],
-		"isRing": true,
+		"mania": 5,
 		"player3": "gf-car",
 		"song": "triple trouble",
 		"validScore": true,
