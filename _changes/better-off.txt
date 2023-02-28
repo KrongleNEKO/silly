@@ -1,0 +1,6 @@
+mods/data/better-off/better-off.json
+mods/data/better-off/events.json
+mods/songs/better-off/Voices.ogg
+mods/songs/better-off/Inst.ogg
+mods/songs/better-off/voices.ogg
+mods/songs/better-off/inst.ogg

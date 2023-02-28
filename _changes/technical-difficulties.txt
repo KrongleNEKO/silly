@@ -1,0 +1,8 @@
+mods/data/technical-difficulties/events.json
+mods/data/technical-difficulties/technical-difficulties-easy.json
+mods/data/technical-difficulties/technical-difficulties-hard.json
+mods/data/technical-difficulties/technical-difficulties.json
+mods/songs/technical-difficulties/Voices.ogg
+mods/songs/technical-difficulties/Inst.ogg
+mods/songs/technical-difficulties/voices.ogg
+mods/songs/technical-difficulties/inst.ogg

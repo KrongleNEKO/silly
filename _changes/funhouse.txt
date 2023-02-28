@@ -1,0 +1,6 @@
+mods/data/funhouse/events.json
+mods/data/funhouse/funhouse.json
+mods/songs/funhouse/Voices.ogg
+mods/songs/funhouse/Inst.ogg
+mods/songs/funhouse/voices.ogg
+mods/songs/funhouse/inst.ogg

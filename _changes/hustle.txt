@@ -1,0 +1,7 @@
+mods/data/hustle/hustle-easy.json
+mods/data/hustle/hustle-hard.json
+mods/data/hustle/hustle.json
+mods/songs/hustle/Voices.ogg
+mods/songs/hustle/Inst.ogg
+mods/songs/hustle/voices.ogg
+mods/songs/hustle/inst.ogg

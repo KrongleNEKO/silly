@@ -1,0 +1,6 @@
+mods/data/your-copy/events.json
+mods/data/your-copy/your-copy.json
+mods/songs/your-copy/Voices.ogg
+mods/songs/your-copy/Inst.ogg
+mods/songs/your-copy/voices.ogg
+mods/songs/your-copy/inst.ogg

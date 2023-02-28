@@ -1,0 +1,6 @@
+mods/data/shrouded/events.json
+mods/data/shrouded/shrouded.json
+mods/songs/shrouded/Voices.ogg
+mods/songs/shrouded/Inst.ogg
+mods/songs/shrouded/voices.ogg
+mods/songs/shrouded/inst.ogg

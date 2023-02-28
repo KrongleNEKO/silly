@@ -1,0 +1,6 @@
+mods/data/bacon/bacon-hard.json
+mods/data/bacon/bacon.json
+mods/songs/bacon/Voices.ogg
+mods/songs/bacon/Inst.ogg
+mods/songs/bacon/voices.ogg
+mods/songs/bacon/inst.ogg

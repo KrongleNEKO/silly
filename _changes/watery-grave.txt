@@ -1,0 +1,6 @@
+mods/data/watery-grave/events.json
+mods/data/watery-grave/watery-grave.json
+mods/songs/watery-grave/Voices.ogg
+mods/songs/watery-grave/Inst.ogg
+mods/songs/watery-grave/voices.ogg
+mods/songs/watery-grave/inst.ogg

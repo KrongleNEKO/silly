@@ -1,0 +1,6 @@
+mods/data/scuttlebug/events.json
+mods/data/scuttlebug/scuttlebug.json
+mods/songs/scuttlebug/Voices.ogg
+mods/songs/scuttlebug/Inst.ogg
+mods/songs/scuttlebug/voices.ogg
+mods/songs/scuttlebug/inst.ogg
