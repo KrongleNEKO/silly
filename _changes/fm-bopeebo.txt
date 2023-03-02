@@ -1,0 +1,8 @@
+mods/data/fm-bopeebo/events.json
+mods/data/fm-bopeebo/fm-bopeebo-easy.json
+mods/data/fm-bopeebo/fm-bopeebo-hard.json
+mods/data/fm-bopeebo/fm-bopeebo.json
+mods/songs/fm-bopeebo/Voices.ogg
+mods/songs/fm-bopeebo/Inst.ogg
+mods/songs/fm-bopeebo/voices.ogg
+mods/songs/fm-bopeebo/inst.ogg

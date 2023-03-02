@@ -1,0 +1,8 @@
+mods/data/fm-fresh/events.json
+mods/data/fm-fresh/fm-fresh-easy.json
+mods/data/fm-fresh/fm-fresh-hard.json
+mods/data/fm-fresh/fm-fresh.json
+mods/songs/fm-fresh/Voices.ogg
+mods/songs/fm-fresh/Inst.ogg
+mods/songs/fm-fresh/voices.ogg
+mods/songs/fm-fresh/inst.ogg

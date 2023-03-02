@@ -1,0 +1,8 @@
+mods/data/fm-tutorial/events.json
+mods/data/fm-tutorial/fm-tutorial-easy.json
+mods/data/fm-tutorial/fm-tutorial-hard.json
+mods/data/fm-tutorial/fm-tutorial.json
+mods/songs/fm-tutorial/Voices.ogg
+mods/songs/fm-tutorial/Inst.ogg
+mods/songs/fm-tutorial/voices.ogg
+mods/songs/fm-tutorial/inst.ogg

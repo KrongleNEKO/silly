@@ -1,0 +1,8 @@
+mods/data/fm-spookeez/events.json
+mods/data/fm-spookeez/fm-spookeez-easy.json
+mods/data/fm-spookeez/fm-spookeez-hard.json
+mods/data/fm-spookeez/fm-spookeez.json
+mods/songs/fm-spookeez/Voices.ogg
+mods/songs/fm-spookeez/Inst.ogg
+mods/songs/fm-spookeez/voices.ogg
+mods/songs/fm-spookeez/inst.ogg

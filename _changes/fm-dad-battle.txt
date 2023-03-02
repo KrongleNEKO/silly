@@ -1,0 +1,8 @@
+mods/data/fm-dad-battle/events.json
+mods/data/fm-dad-battle/fm-dad-battle-easy.json
+mods/data/fm-dad-battle/fm-dad-battle-hard.json
+mods/data/fm-dad-battle/fm-dad-battle.json
+mods/songs/fm-dad-battle/Voices.ogg
+mods/songs/fm-dad-battle/Inst.ogg
+mods/songs/fm-dad-battle/voices.ogg
+mods/songs/fm-dad-battle/inst.ogg
