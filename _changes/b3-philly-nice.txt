@@ -1,0 +1,9 @@
+mods/data/b3-philly-nice/b3-philly-nice-easy.json
+mods/data/b3-philly-nice/b3-philly-nice-getreal.json
+mods/data/b3-philly-nice/b3-philly-nice-hard.json
+mods/data/b3-philly-nice/b3-philly-nice.json
+mods/data/b3-philly-nice/events.json
+mods/songs/b3-philly-nice/Voices.ogg
+mods/songs/b3-philly-nice/Inst.ogg
+mods/songs/b3-philly-nice/voices.ogg
+mods/songs/b3-philly-nice/inst.ogg

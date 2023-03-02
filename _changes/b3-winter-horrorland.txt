@@ -1,0 +1,9 @@
+mods/data/b3-winter-horrorland/b3-winter-horrorland-easy.json
+mods/data/b3-winter-horrorland/b3-winter-horrorland-getreal.json
+mods/data/b3-winter-horrorland/b3-winter-horrorland-hard.json
+mods/data/b3-winter-horrorland/b3-winter-horrorland.json
+mods/data/b3-winter-horrorland/events.json
+mods/songs/b3-winter-horrorland/Voices.ogg
+mods/songs/b3-winter-horrorland/Inst.ogg
+mods/songs/b3-winter-horrorland/voices.ogg
+mods/songs/b3-winter-horrorland/inst.ogg

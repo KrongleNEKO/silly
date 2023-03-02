@@ -1,0 +1,5 @@
+mods/data/bunboxxin/bunboxxin.json
+mods/songs/bunboxxin/Voices.ogg
+mods/songs/bunboxxin/Inst.ogg
+mods/songs/bunboxxin/voices.ogg
+mods/songs/bunboxxin/inst.ogg

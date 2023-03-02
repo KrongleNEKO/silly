@@ -1,0 +1,5 @@
+mods/data/uprising/uprising-hard.json
+mods/songs/uprising/Voices.ogg
+mods/songs/uprising/Inst.ogg
+mods/songs/uprising/voices.ogg
+mods/songs/uprising/inst.ogg

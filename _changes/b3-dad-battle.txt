@@ -1,0 +1,9 @@
+mods/data/b3-dad-battle/b3-dad-battle-easy.json
+mods/data/b3-dad-battle/b3-dad-battle-getreal.json
+mods/data/b3-dad-battle/b3-dad-battle-hard.json
+mods/data/b3-dad-battle/b3-dad-battle.json
+mods/data/b3-dad-battle/events.json
+mods/songs/b3-dad-battle/Voices.ogg
+mods/songs/b3-dad-battle/Inst.ogg
+mods/songs/b3-dad-battle/voices.ogg
+mods/songs/b3-dad-battle/inst.ogg

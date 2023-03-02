@@ -1,0 +1,5 @@
+mods/data/fuss-erect/fuss-erect.json
+mods/songs/fuss-erect/Voices.ogg
+mods/songs/fuss-erect/Inst.ogg
+mods/songs/fuss-erect/voices.ogg
+mods/songs/fuss-erect/inst.ogg

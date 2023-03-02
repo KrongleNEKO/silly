@@ -1,0 +1,9 @@
+mods/data/b3-pico/b3-pico-easy.json
+mods/data/b3-pico/b3-pico-getreal.json
+mods/data/b3-pico/b3-pico-hard.json
+mods/data/b3-pico/b3-pico.json
+mods/data/b3-pico/pico custom.json
+mods/songs/b3-pico/Voices.ogg
+mods/songs/b3-pico/Inst.ogg
+mods/songs/b3-pico/voices.ogg
+mods/songs/b3-pico/inst.ogg

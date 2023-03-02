@@ -1,0 +1,8 @@
+mods/data/b3-south/b3-south-easy.json
+mods/data/b3-south/b3-south-getreal.json
+mods/data/b3-south/b3-south-hard.json
+mods/data/b3-south/b3-south.json
+mods/songs/b3-south/Voices.ogg
+mods/songs/b3-south/Inst.ogg
+mods/songs/b3-south/voices.ogg
+mods/songs/b3-south/inst.ogg

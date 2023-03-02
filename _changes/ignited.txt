@@ -1,0 +1,5 @@
+mods/data/ignited/ignited.json
+mods/songs/ignited/Voices.ogg
+mods/songs/ignited/Inst.ogg
+mods/songs/ignited/voices.ogg
+mods/songs/ignited/inst.ogg

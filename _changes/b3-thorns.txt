@@ -1,0 +1,9 @@
+mods/data/b3-thorns/b3-thorns-easy.json
+mods/data/b3-thorns/b3-thorns-getreal.json
+mods/data/b3-thorns/b3-thorns-hard.json
+mods/data/b3-thorns/b3-thorns.json
+mods/data/b3-thorns/events.json
+mods/songs/b3-thorns/Voices.ogg
+mods/songs/b3-thorns/Inst.ogg
+mods/songs/b3-thorns/voices.ogg
+mods/songs/b3-thorns/inst.ogg

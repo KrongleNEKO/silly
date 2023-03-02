@@ -1,0 +1,9 @@
+mods/data/b3-spookeez/b3-spookeez-easy.json
+mods/data/b3-spookeez/b3-spookeez-getreal.json
+mods/data/b3-spookeez/b3-spookeez-hard.json
+mods/data/b3-spookeez/b3-spookeez.json
+mods/data/b3-spookeez/spookeez custom.json
+mods/songs/b3-spookeez/Voices.ogg
+mods/songs/b3-spookeez/Inst.ogg
+mods/songs/b3-spookeez/voices.ogg
+mods/songs/b3-spookeez/inst.ogg

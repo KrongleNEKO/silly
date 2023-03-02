@@ -1,0 +1,10 @@
+mods/data/b3-milf/b3-milf-easy.json
+mods/data/b3-milf/b3-milf-getreal.json
+mods/data/b3-milf/b3-milf-hard.json
+mods/data/b3-milf/b3-milf.json
+mods/data/b3-milf/events.json
+mods/data/b3-milf/milf custom.json
+mods/songs/b3-milf/Voices.ogg
+mods/songs/b3-milf/Inst.ogg
+mods/songs/b3-milf/voices.ogg
+mods/songs/b3-milf/inst.ogg

@@ -1,0 +1,11 @@
+mods/data/b3-bopeebo/b3-bopeebo-boobs.json
+mods/data/b3-bopeebo/b3-bopeebo-easy.json
+mods/data/b3-bopeebo/b3-bopeebo-getreal.json
+mods/data/b3-bopeebo/b3-bopeebo-hard.json
+mods/data/b3-bopeebo/b3-bopeebo.json
+mods/data/b3-bopeebo/bopeebo custom.json
+mods/data/b3-bopeebo/events.json
+mods/songs/b3-bopeebo/Voices.ogg
+mods/songs/b3-bopeebo/Inst.ogg
+mods/songs/b3-bopeebo/voices.ogg
+mods/songs/b3-bopeebo/inst.ogg

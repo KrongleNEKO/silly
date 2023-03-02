@@ -1,0 +1,10 @@
+mods/data/b3-cocoa/b3-cocoa-easy.json
+mods/data/b3-cocoa/b3-cocoa-getreal.json
+mods/data/b3-cocoa/b3-cocoa-hard.json
+mods/data/b3-cocoa/b3-cocoa.json
+mods/data/b3-cocoa/cocoa custom.json
+mods/data/b3-cocoa/events.json
+mods/songs/b3-cocoa/Voices.ogg
+mods/songs/b3-cocoa/Inst.ogg
+mods/songs/b3-cocoa/voices.ogg
+mods/songs/b3-cocoa/inst.ogg

@@ -1,0 +1,5 @@
+mods/data/sinister/sinister.json
+mods/songs/sinister/Voices.ogg
+mods/songs/sinister/Inst.ogg
+mods/songs/sinister/voices.ogg
+mods/songs/sinister/inst.ogg

@@ -1,0 +1,9 @@
+mods/data/b3-fresh/b3-fresh-easy.json
+mods/data/b3-fresh/b3-fresh-getreal.json
+mods/data/b3-fresh/b3-fresh-hard.json
+mods/data/b3-fresh/b3-fresh.json
+mods/data/b3-fresh/fresh custom.json
+mods/songs/b3-fresh/Voices.ogg
+mods/songs/b3-fresh/Inst.ogg
+mods/songs/b3-fresh/voices.ogg
+mods/songs/b3-fresh/inst.ogg

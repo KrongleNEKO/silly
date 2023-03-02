@@ -1,0 +1,10 @@
+mods/data/b3-satin-panties/b3-satin-panties-easy.json
+mods/data/b3-satin-panties/b3-satin-panties-getreal.json
+mods/data/b3-satin-panties/b3-satin-panties-hard.json
+mods/data/b3-satin-panties/b3-satin-panties.json
+mods/data/b3-satin-panties/events.json
+mods/data/b3-satin-panties/satin-panties custom.json
+mods/songs/b3-satin-panties/Voices.ogg
+mods/songs/b3-satin-panties/Inst.ogg
+mods/songs/b3-satin-panties/voices.ogg
+mods/songs/b3-satin-panties/inst.ogg

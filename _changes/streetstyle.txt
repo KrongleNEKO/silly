@@ -1,0 +1,5 @@
+mods/data/streetstyle/streetstyle.json
+mods/songs/streetstyle/Voices.ogg
+mods/songs/streetstyle/Inst.ogg
+mods/songs/streetstyle/voices.ogg
+mods/songs/streetstyle/inst.ogg

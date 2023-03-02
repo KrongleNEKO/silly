@@ -1,0 +1,9 @@
+mods/data/b3-tutorial/b3-tutorial-easy.json
+mods/data/b3-tutorial/b3-tutorial-getreal.json
+mods/data/b3-tutorial/b3-tutorial-hard.json
+mods/data/b3-tutorial/b3-tutorial.json
+mods/data/b3-tutorial/events.json
+mods/songs/b3-tutorial/Voices.ogg
+mods/songs/b3-tutorial/Inst.ogg
+mods/songs/b3-tutorial/voices.ogg
+mods/songs/b3-tutorial/inst.ogg

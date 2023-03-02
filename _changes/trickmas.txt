@@ -1,0 +1,5 @@
+mods/data/trickmas/trickmas.json
+mods/songs/trickmas/Voices.ogg
+mods/songs/trickmas/Inst.ogg
+mods/songs/trickmas/voices.ogg
+mods/songs/trickmas/inst.ogg

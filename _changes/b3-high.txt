@@ -1,0 +1,10 @@
+mods/data/b3-high/b3-high-easy.json
+mods/data/b3-high/b3-high-getreal.json
+mods/data/b3-high/b3-high-hard.json
+mods/data/b3-high/b3-high.json
+mods/data/b3-high/events.json
+mods/data/b3-high/high custom.json
+mods/songs/b3-high/Voices.ogg
+mods/songs/b3-high/Inst.ogg
+mods/songs/b3-high/voices.ogg
+mods/songs/b3-high/inst.ogg

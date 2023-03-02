@@ -1,0 +1,6 @@
+mods/data/impostor-triple-trouble/events.json
+mods/data/impostor-triple-trouble/impostor-triple-trouble-hard.json
+mods/songs/impostor-triple-trouble/Voices.ogg
+mods/songs/impostor-triple-trouble/Inst.ogg
+mods/songs/impostor-triple-trouble/voices.ogg
+mods/songs/impostor-triple-trouble/inst.ogg

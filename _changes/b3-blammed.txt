@@ -1,0 +1,10 @@
+mods/data/b3-blammed/b3-blammed custom.json
+mods/data/b3-blammed/b3-blammed-easy.json
+mods/data/b3-blammed/b3-blammed-getreal.json
+mods/data/b3-blammed/b3-blammed-hard.json
+mods/data/b3-blammed/b3-blammed.json
+mods/data/b3-blammed/events.json
+mods/songs/b3-blammed/Voices.ogg
+mods/songs/b3-blammed/Inst.ogg
+mods/songs/b3-blammed/voices.ogg
+mods/songs/b3-blammed/inst.ogg

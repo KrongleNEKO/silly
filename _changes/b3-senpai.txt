@@ -1,0 +1,8 @@
+mods/data/b3-senpai/b3-senpai-easy.json
+mods/data/b3-senpai/b3-senpai-getreal.json
+mods/data/b3-senpai/b3-senpai-hard.json
+mods/data/b3-senpai/b3-senpai.json
+mods/songs/b3-senpai/Voices.ogg
+mods/songs/b3-senpai/Inst.ogg
+mods/songs/b3-senpai/voices.ogg
+mods/songs/b3-senpai/inst.ogg

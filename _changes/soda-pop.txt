@@ -1,0 +1,5 @@
+mods/data/soda-pop/soda-pop.json
+mods/songs/soda-pop/Voices.ogg
+mods/songs/soda-pop/Inst.ogg
+mods/songs/soda-pop/voices.ogg
+mods/songs/soda-pop/inst.ogg

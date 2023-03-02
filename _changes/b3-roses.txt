@@ -1,0 +1,9 @@
+mods/data/b3-roses/b3-roses-easy.json
+mods/data/b3-roses/b3-roses-getreal.json
+mods/data/b3-roses/b3-roses-hard.json
+mods/data/b3-roses/b3-roses.json
+mods/data/b3-roses/events.json
+mods/songs/b3-roses/Voices.ogg
+mods/songs/b3-roses/Inst.ogg
+mods/songs/b3-roses/voices.ogg
+mods/songs/b3-roses/inst.ogg

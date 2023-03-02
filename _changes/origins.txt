@@ -1,0 +1,7 @@
+mods/data/origins/origins-easy.json
+mods/data/origins/origins-hard.json
+mods/data/origins/origins.json
+mods/songs/origins/Voices.ogg
+mods/songs/origins/Inst.ogg
+mods/songs/origins/voices.ogg
+mods/songs/origins/inst.ogg
